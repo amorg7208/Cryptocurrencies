@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignore crypto_data.csv too large to upload to github
+/Users/amanda/Desktop/UCBComplete/Cryptocurrencies/Resources/crypto_data.csv
 # C extensions
 *.so
 
